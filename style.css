@@ -39,7 +39,7 @@
   flex-grow: 1;
 }
 
-.task-row-wrapper {
+.new-task__append-string {
   display: flex;
 }
 
@@ -125,7 +125,7 @@ li {
   align-items: center;
 }
 
-li > * {
+li {
   vertical-align: middle;
 }
 
